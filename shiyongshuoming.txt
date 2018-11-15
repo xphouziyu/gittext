@@ -1,9 +1,0 @@
-git config --global user.name "YE"
-git config --global user.email "xphouziyu@qq.com"
-
-´´½¨git
-	git init
-
-git add tow
-
-update file
